@@ -1,5 +1,3 @@
- IN_ATTACK                        0x0000  /* Activate when player is shooting/punching
-
  XK_BackSpace                     0xff08  /* Back space, back char */
  XK_Tab                           0xff09
  XK_Linefeed                      0xff0a  /* Linefeed, LF */
